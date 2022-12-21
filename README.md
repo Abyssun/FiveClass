@@ -26,7 +26,7 @@ FiveClass is one of the competitive events of the National Intelligence Games, a
 
 ### Project operation diagram
 
-![image-20221221093644128](D:\桌面\img\README\image-20221221093644128-1671586610148-32-1671604422365-44.png)
+![image-20221221093644128](https://bbs.qsnctf.com/data/attachment/forum/202212/21/151916bnjgd5a8qo5btoyq.png)
 
 ## Requirement analysis
 
@@ -58,10 +58,10 @@ The Repentance button is used to realize the user's repentance operation. It is 
 
 ## System Design Summary
 
-![流程图](D:\桌面\img\README\流程图-1671593241994-37.jpg)
+![流程图](https://bbs.qsnctf.com/data/attachment/forum/202212/21/151916o1h1366696nv336n.jpg)
 
 ## Coding and implementation
 
 ###Project directory structure
 
-![image-20221221111954906](D:\桌面\img\README\image-20221221111954906-1671592796891-34.png)
+![image-20221221111954906](https://bbs.qsnctf.com/data/attachment/forum/202212/21/151916g3i2zyzwvyswmi2w.png)
