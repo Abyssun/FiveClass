@@ -26,7 +26,7 @@
 
 ### 项目运行图
 
-![image-20221221093644128](D:\桌面\img\READEME-CN\image-20221221093644128-1671586610148-32.png)
+![image-20221221093644128](https://bbs.qsnctf.com/data/attachment/forum/202212/21/151916bnjgd5a8qo5btoyq.png)
 
 ## 需求分析
 
@@ -64,10 +64,10 @@
 
 ## 系统设计概要
 
-![流程图](D:\桌面\img\READEME-CN\流程图-1671593241994-37.jpg)
+![流程图](https://bbs.qsnctf.com/data/attachment/forum/202212/21/151916o1h1366696nv336n.jpg)
 
 ## 编码与实现
 
 ### 项目目录结构
 
-![image-20221221111954906](D:\桌面\img\READEME-CN\image-20221221111954906-1671592796891-34.png)
+![image-20221221111954906](https://bbs.qsnctf.com/data/attachment/forum/202212/21/151916g3i2zyzwvyswmi2w.png)
