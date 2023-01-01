@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-18">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Abyssun2004/.p2/pool/plugins/org.eclipse.osgi_3.18.0.v20220516-2155.jar" sourcepath="C:/Users/Abyssun2004/.p2/pool/plugins/org.eclipse.osgi_3.18.0.v20220516-2155.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abyssun2004/.p2/pool/plugins/org.eclipse.core.commands_3.10.200.v20220512-0851.jar" sourcepath="C:/Users/Abyssun2004/.p2/pool/plugins/org.eclipse.core.commands_3.10.200.v20220512-0851.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abyssun2004/.p2/pool/plugins/org.eclipse.equinox.common_3.16.100.v20220315-2327.jar" sourcepath="C:/Users/Abyssun2004/.p2/pool/plugins/org.eclipse.equinox.common_3.16.100.v20220315-2327.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abyssun2004/.p2/pool/plugins/org.eclipse.equinox.registry_3.11.100.v20211021-1418.jar" sourcepath="C:/Users/Abyssun2004/.p2/pool/plugins/org.eclipse.equinox.registry_3.11.100.v20211021-1418.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abyssun2004/.p2/pool/plugins/org.eclipse.core.runtime_3.25.0.v20220506-1157.jar" sourcepath="C:/Users/Abyssun2004/.p2/pool/plugins/org.eclipse.core.runtime_3.25.0.v20220506-1157.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abyssun2004/.p2/pool/plugins/org.eclipse.text_3.12.100.v20220506-1404.jar" sourcepath="C:/Users/Abyssun2004/.p2/pool/plugins/org.eclipse.text_3.12.100.v20220506-1404.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abyssun2004/.p2/pool/plugins/org.eclipse.swt.win32.win32.x86_64_3.120.0.v20220530-1036.jar" sourcepath="C:/Users/Abyssun2004/.p2/pool/plugins/org.eclipse.swt.win32.win32.x86_64_3.120.0.v20220530-1036.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abyssun2004/.p2/pool/plugins/org.eclipse.jface_3.26.0.v20220513-0449.jar" sourcepath="C:/Users/Abyssun2004/.p2/pool/plugins/org.eclipse.jface_3.26.0.v20220513-0449.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abyssun2004/.p2/pool/plugins/org.eclipse.jface.text_3.20.100.v20220516-0819.jar" sourcepath="C:/Users/Abyssun2004/.p2/pool/plugins/org.eclipse.jface.text_3.20.100.v20220516-0819.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abyssun2004/.p2/pool/plugins/org.eclipse.ui.workbench_3.125.100.v20220524-1304.jar" sourcepath="C:/Users/Abyssun2004/.p2/pool/plugins/org.eclipse.ui.workbench_3.125.100.v20220524-1304.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abyssun2004/.p2/pool/plugins/com.ibm.icu_67.1.0.v20200706-1749.jar" sourcepath="C:/Users/Abyssun2004/.p2/pool/plugins/com.ibm.icu_67.1.0.v20200706-1749.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abyssun2004/.p2/pool/plugins/org.eclipse.ui.forms_3.11.300.v20211022-1451.jar" sourcepath="C:/Users/Abyssun2004/.p2/pool/plugins/org.eclipse.ui.forms_3.11.300.v20211022-1451.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
